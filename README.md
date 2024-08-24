@@ -1,7 +1,7 @@
 # NY Car Crash Data Analysis and Visualization
 This project was developed as part of a volunteer initiative for a non-profit organization, aimed at analyzing and visualizing traffic accident data in New York City. By leveraging Python for data preprocessing and Power BI for visualization, this project provides actionable insights to help improve urban safety and inform public policy.
 
-
+<img src="https://github.com/user-attachments/assets/eb2890b4-ba78-4a52-a34a-693a86bdc12f" height=30% width=80%>
 
 
 ## Dataset Overview
